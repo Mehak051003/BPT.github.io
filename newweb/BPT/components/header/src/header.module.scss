@@ -1,0 +1,17 @@
+.root {
+    height: 78px;
+    background-color: #ffffff;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    height: 78px;
+    gap: 40px;
+    font-weight: 600;
+    font-size: 24px;
+
+    .link {
+        color: #12689b;
+    }
+}
